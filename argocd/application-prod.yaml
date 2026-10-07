@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/argocd-helm-app.git
+    repoURL: https://github.com/Cyberlad-17/argocd-helm-app.git
     targetRevision: main
     path: .
 
